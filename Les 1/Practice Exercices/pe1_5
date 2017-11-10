@@ -1,0 +1,8 @@
+a.
+favorieten = ['michael jackson']
+
+b.
+favorieten.append('justin bieber')
+
+c.
+favorieten[1] = 'one direction'

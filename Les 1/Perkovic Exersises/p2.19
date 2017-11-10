@@ -1,0 +1,24 @@
+a)
+Import math
+x = 0
+y = 0
+math.sqrt(x**2 + y**2) <= 10
+True
+
+b)
+x = 10
+y = 10
+math.sqrt(x**2 + y**2) <= 10
+False
+
+c)
+x = 6
+y = 6
+math.sqrt(x**2 + y**2) <= 10
+True
+
+d)
+x = 7
+y = 8
+math.sqrt(x**2 + y**2) <= 10
+False

@@ -1,0 +1,20 @@
+a.
+str = 'Supercalifragilisticexpialidocious'
+len(str)
+34
+
+b.
+'ice' in str
+True
+
+c.
+'Antidisestablishmentarianism' > 'Honorificabilitudinitatibus'
+False
+
+d.
+componisten = ['Berlioz', 'Borodin', 'Brian', 'Bartok', 'Bellini', 'Buxtehude', 'Bernstein']
+componisten.sort(reverse=False)
+componisten[0]
+'Bartok'
+componisten[-1]
+'Buxtehude'

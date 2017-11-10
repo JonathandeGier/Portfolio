@@ -1,0 +1,8 @@
+a.
+6.75 > a and 6.75 < b
+
+b.
+len(inventaris)*5 == len(mijnnaam)
+
+c.
+len(inventaris) == 0 or len(inventaris) > 10

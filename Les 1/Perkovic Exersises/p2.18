@@ -1,0 +1,5 @@
+a)	flowers = [‘rose’, ‘bougainvillea’, ‘yucca’, ‘marigold’, ‘daylilly’, ‘lilly of the valley’]
+b)	‘potato’ in flowers
+c)	thorny = [flowers[0], flowers[1], flowers[2]]
+d)	poisonous = flowers[-1]
+e)	dangerous = [thorny, poisonous]

@@ -1,0 +1,16 @@
+a.
+a = 6
+b = 7
+
+b.
+c = (a + b)/2
+
+c.
+inventaris = ['papier', 'nietjes', 'pennen']
+
+d.
+voornaam = 'Jonathan'
+tussenvoegsel = 'de'
+achternaam = 'Gier'
+
+e.	mijnnaam = voornaam + ' ' + tussenvoegsel + ' ' + achternaam
